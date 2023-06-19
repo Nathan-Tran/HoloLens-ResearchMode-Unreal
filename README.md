@@ -12,4 +12,4 @@ Call UpdateLatestWristTransforms() immediately after whereever your project make
 
 ## Documenation
 
-Links to further documentation can be found [here](https://noneuclideangeometry.wordpress.com/)
+Links to further documentation can be found [here](https://noneuclideangeometry.com/2023/06/14/hololens-2-vision-pro-forearm-tracking-solution/)
